@@ -1,16 +1,16 @@
-This is my first version of my first ever code/APP that I made with 10 hours of learning Python with Pycharm.
+This is the first version of my inaugural application, which I developed after dedicating 10 hours to learning Python with PyCharm.
 
-I will love to be a coder and learn more. 
+I aspire to become a proficient coder and am eager to expand my knowledge.
 
-This APP do:
+This application has the following features:
 
-1. Show live pictures extracted form a website.
-2. Have different picture selector. (Live pictures)
-3. Give refresh time option and refresh button.
-4. Zoom in/out
+- Displays live images extracted from a website.
+- Includes a selector for different live images.
+- Provides an option to set a refresh time and a refresh button.
+- Allows for zooming in and out.
 
-To be honest my problem was to make sure the picture don't affect the down widget but I have difficulty doing it I will upload version 2.0 so it is 100% perfect at all time.
+To be honest, I encountered a challenge ensuring that the image does not affect the widget below it. I had some difficulty resolving this, but I plan to address it in version 2.0 to ensure the application is flawless at all times.
 
-But I liked that it gave more place to see the picture due to zoom in/out option.
+One aspect I appreciated was that the zoom in/out feature provided more space to view the image.
 
 Quebeker
